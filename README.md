@@ -1,54 +1,112 @@
-# 🌍 Global Life Expectancy Analysis using WHO Dataset  
+# 📊 Amazon Sales Analysis (Power BI)
 
-## 📖 Overview  
-This project analyzes **Global Life Expectancy** using the **WHO Dataset**.  
-The goal is to uncover key health trends, patterns, and factors affecting life expectancy worldwide.  
-
-The analysis was performed using **Power BI**, with dashboards designed to provide interactive insights.  
+This project presents an **end-to-end Amazon Sales Analysis** built entirely in **Power BI**.  
+The dashboard highlights sales performance, product trends, and customer engagement across different timeframes.  
 
 ---
 
-## 📊 Dashboard Screenshots  
+## 🚀 Project Overview
+The analysis focuses on **Amazon's sales and product performance (YTD, QTD, Monthly, Weekly)**, helping to identify key trends, top-performing categories, and products driving business growth.
 
-<p align="center">
-  <img src="dashboards/dashboard1.png" alt="Dashboard 1" width="700"/>
-</p>
-
-<p align="center">
-  <img src="dashboards/dashboard2.png" alt="Dashboard 2" width="700"/>
-</p>
-
-<p align="center">
-  <img src="dashboards/dashboard3.png" alt="Dashboard 3" width="700"/>
-</p>
+🔑 **Key Objectives:**
+- Track overall sales performance and customer engagement.
+- Identify seasonal sales patterns and growth momentum.
+- Highlight top categories and products contributing to revenue.
+- Support data-driven decision-making with visual insights.
 
 ---
 
-## 📑 Insights (PDF Report)  
-Detailed insights can be found in the [Insights.pdf](Insights.pdf).  
+## 📈 Key Insights
+
+### 1️⃣ Overall Performance (YTD – Year to Date)
+- **YTD Sales:** **$2.18M** (robust and consistent growth).  
+- **QTD Sales:** **$811.09K** (strong quarterly momentum).  
+- **YTD Products Sold:** **27.75K units**.  
+- **YTD Reviews:** **19.42M reviews** (high customer engagement & trust).  
+
+📌 *Takeaway: A loyal customer base with sustained product movement and steady revenue generation.*
 
 ---
 
-## 🔧 Tools & Technologies  
-- **Power BI** – Dashboard & Visualization  
-- **WHO Dataset (Kaggle)** – Source of data  
-- **Data Cleaning & Processing** – Excel / Power Query  
+### 2️⃣ Monthly Trends
+- **Peak Month:** September (**>$1M sales**) driven by festive & promotional campaigns.  
+- **Strong Months:** November & December – holiday season boost.  
+- **Lowest Month:** January (post-holiday slowdown).  
+
+📌 *Seasonal campaigns & holiday promotions play a critical role in boosting sales.*
 
 ---
 
-## 🚀 Key Findings  
-- 📈 Life expectancy varies significantly by **region & income group**.  
-- 🏥 **Healthcare expenditure** is directly related to better life expectancy.  
-- 👶 Higher **child mortality rates** negatively impact overall life expectancy.  
-- 🌍 Developed countries show consistently higher life expectancy compared to developing nations.  
+### 3️⃣ Weekly Trends
+- Sales **grow gradually post Week 10**, peaking during **Weeks 40–50**.  
+- Strong correlation with **Black Friday, Christmas, and festive campaigns**.  
+
+📌 *Strategic promotions drive strong weekly sales momentum.*
 
 ---
 
-## 👨‍💻 Author  
+### 4️⃣ Top Product Categories (YTD Sales)
+| Category              | YTD Sales | Contribution |
+|-----------------------|-----------|--------------|
+| 👟 Men Shoes          | $9.40M    | **43.18%**   |
+| 📷 Camera             | $4.92M    | **22.62%**   |
+| 📱 Mobile & Accessories | $3.91M | **18.0%**    |
+
+📌 *Fashion (Shoes) dominates sales, followed by electronics (Cameras, Mobiles).*
+
+---
+
+### 5️⃣ Top 5 Products (YTD Sales)
+1. **OnePlus Device** — $41K  
+2. **Nikon Camera** — $34K  
+3. **Atomos Ninja** — $28K  
+4. **Solid Gear** — $27K  
+5. **Canal Tablet** — $22K  
+
+📌 *Electronics (OnePlus, Nikon, Atomos) remain strong growth drivers, supported by lifestyle products.*
+
+---
+
+## 📝 Key Takeaways
+- Sales are **both seasonal and category-driven**.  
+- **Footwear (Men Shoes)** is the largest contributor to YTD sales.  
+- **Electronics (OnePlus, Nikon, Atomos)** strengthen brand value & attract tech-focused customers.  
+- **Balanced focus on lifestyle + technology**, along with **effective promotions**, ensures long-term growth.  
+
+---
+
+## 🛠️ Tools & Technologies
+- **Power BI** – Data Cleaning, Analysis, Visualizations, and Interactive Dashboards.  
+
+---
+
+## 📌 Dashboard Preview
+*(Add your Power BI dashboard screenshot here)*  
+![Amazon Sales Dashboard](dashboard-screenshot.png)
+
+---
+
+## 📂 Repository Structure
+```
+📦 Amazon-Sales-Analysis
+┣ 📊 Dashboard.pbix # Power BI File
+┣ 📄 README.md # Project Documentation
+┗ 📁 Assets # Images / Screenshots
+```
+
+---
+
+## 🙌 Author
 **Anmol Pandey**  
-- 📫 Reach me at: `anmolpandey6790@gmail.com`  
-- 🌐 [LinkedIn](https://www.linkedin.com/in/anmol-pandey-08b864297) | [Kaggle](https://www.kaggle.com/anmolpandey01) | [Instagram](https://www.instagram.com/anmol_pandey_6790)  
+📍 BCA Student @ Lovely Professional University  
+🌐 Passionate about Data Analytics, BI Tools, and Visualization.  
 
----
 
-✨ *"Data is the new oil, but insights are the new gold!"*
+
+
+
+
+
+
+
+
