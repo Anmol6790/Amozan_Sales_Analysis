@@ -80,18 +80,35 @@ The analysis focuses on **Amazon's sales and product performance (YTD, QTD, Mont
 
 ---
 
+## 🌍 Live Dashboard
+Click below to explore the **interactive Power BI dashboard**:  
+
+🔗 [View Live Dashboard](https://app.fabric.microsoft.com/links/xd7b2ar9kO?ctid=e14e73eb-5251-4388-8d67-8f9f2e2d5a46&pbi_source=linkShare)
+
+---
+
 ## 📌 Dashboard Preview
-*(Add your Power BI dashboard screenshot here)*  
-![Amazon Sales Dashboard](dashboard-screenshot.png)
+
+### Dashboard 1  
+![Dashboard 1](dashboards/dashboard1.png)
+
+### Dashboard 2  
+![Dashboard 2](dashboards/dashboard2.png)
+
+### Dashboard 3  
+![Dashboard 3](dashboards/dashboard3.png)
 
 ---
 
 ## 📂 Repository Structure
 ```
 📦 Amazon-Sales-Analysis
-┣ 📊 Dashboard.pbix # Power BI File
+┣ 📊 dashboards/ # Dashboard screenshots
+┃ ┣ dashboard1.png
+┃ ┣ dashboard2.png
+┃ ┗ dashboard3.png
+┣ 📄 Insights.pdf # Detailed insights report
 ┣ 📄 README.md # Project Documentation
-┗ 📁 Assets # Images / Screenshots
 ```
 
 ---
